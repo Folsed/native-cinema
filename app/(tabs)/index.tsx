@@ -4,7 +4,7 @@ import React from 'react'
 
 export default function Index() {
     return (
-        <View className='flex-1 justify-center items-center'>
+        <View className='flex-1 justify-center items-center bg-primary'>
             <Text className='text-3xl text-amber-300'>Welcome!</Text>
             <AntDesign name='downcircle' size={24} color='pink' />
         </View>
