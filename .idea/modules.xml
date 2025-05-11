@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/native-cinema.iml" filepath="$PROJECT_DIR$/.idea/native-cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../next-scrollytelling/.idea/next-scrollytelling.iml" filepath="$PROJECT_DIR$/../next-scrollytelling/.idea/next-scrollytelling.iml" />
     </modules>
   </component>
 </project>
